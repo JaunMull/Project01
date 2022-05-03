@@ -1,0 +1,47 @@
+body{
+    background-color: transparent;
+
+    background-image: url(../images/Matrix.webp);
+  /* background-color: red;
+background-image: url(Project1/Images/Simpsons.jpg);*/
+      background-size: cover;
+      margin: auto;
+      font-family: Arial;
+
+
+  }
+h1{
+  background-color: black;
+  padding: 5%;
+  margin: auto;
+  text-align: center;
+  color: cornsilk;
+
+}
+div{
+  background-color: blue;
+  margin: auto;
+  padding: 50px;
+  text-align: center;
+  border: solid;
+  text-transform: uppercase;
+  width: 50%;
+  border-radius: 10%;
+}
+input{
+width: auto;
+padding: 10px;
+margin: auto;
+
+}
+testarea{
+  width: auto;
+  padding: 10px;
+  margin: auto;
+}
+.left{
+text-align: left;
+}
+#center,#center2,#center3{
+  margin: auto;
+}
